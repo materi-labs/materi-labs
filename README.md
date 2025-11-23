@@ -26,30 +26,13 @@ We aim to be the go-to tool for teams who want to work together on documents and
 
 ## What Materi Offers
 
-### 1. Fragments Panel
-
--   Save and reuse pieces of content across different documents.
--   Cut down on repetitive work and keep things consistent.
-
-### 2. Helpful Writing Tools
-
--   Get suggestions to improve your writing and keep your style on track.
--   Make editing faster and easier.
-
-### 3. Real-Time Collaboration
-
--   Work with your teammates at the same time.
--   Chat and comment directly in your documents.
-
-### 4. Knowledge Retention
-
--   Keep important information handy for future projects.
--   Reuse notes, definitions, and ideas whenever you need them.
-
-### 5. Easy Integration
-
--   Fits into your existing workflow.
--   Connects with other tools for automation and analytics.
+| Feature                 | What It Does                                                                                                      |
+| ----------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| Fragments Panel         | Save and reuse pieces of content across documents. Cut down on repetitive work and keep things consistent.        |
+| Helpful Writing Tools   | Get suggestions to improve your writing and keep your style on track. Make editing faster and easier.             |
+| Real-Time Collaboration | Work with teammates at the same time. Chat and comment directly in your documents.                                |
+| Knowledge Retention     | Keep important information handy for future projects. Reuse notes, definitions, and ideas whenever you need them. |
+| Easy Integration        | Fits into your workflow. Connects with other tools for automation and analytics.                                  |
 
 ---
 
